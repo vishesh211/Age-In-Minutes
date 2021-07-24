@@ -1,3 +1,5 @@
 # Age-In-Minutes
-![unnamed](https://user-images.githubusercontent.com/61341524/126867574-e2b89722-34a9-43d6-a3a1-40e8add283b9.jpg)
+<img src="Images/Screenshot_2021-07-24-13-59-26-558_com.example.ageinminutes2.jpg" width="200"> <img src="Images/Screenshot_2021-07-24-13-59-49-726_com.example.ageinminutes2.jpg" width="200"><img src="Images/Screenshot_2021-07-24-13-59-56-759_com.example.ageinminutes2.jpg" width="200">
+
+
 
